@@ -37,7 +37,7 @@ void robotPrintAscii(void)
   
     printf("\n\n"
 	 "%s    i_i    \n"
-	 "%s   [@_@]   \n"
+	 "%s   [UWU]   \n"
 	 "%s  /|___|\\ \n"
 	 "%s   d   b   \n",blank, blank, blank, blank);
 
